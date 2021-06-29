@@ -3,7 +3,7 @@
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Undergrad Computer Engineering Student🎓 [@PCCOE Pune](https://www.pccoepune.com/)**. I am passionate about Robotics and Computer Vision. I love building interesting and amazing projects in Biotechnical and Agriculture Field. <br/><br/>
 
-- 🔭 I’m currently working on a HandHeld Oscilloscope [Check the Progress](https://www.hackster.io/aniketdhole991/nrf5340-oscilloscope-band-314b26)
+- 🔭 I’m currently working on a Mental Health Chatbot [Check the Progress](https://hackaday.io/project/180133-emojo-mental-health-chatbot)
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 🖼 Computer Vision
   - 🤖 Robotics
