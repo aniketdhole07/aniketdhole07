@@ -20,7 +20,7 @@ I'm an **Undergrad Computer Engineering Student🎓 [@PCCOE Pune](https://www.pc
 [![Devpost](https://img.shields.io/badge/-Devpost-003E54?style=flat-square&logo=Devpost&logoColor=white&link=https://devpost.com/aniketdhole07)](https://devpost.com/aniketdhole07)
 [![Hackster](https://img.shields.io/badge/-Hackster-1BACF7?style=flat-square&logo=Hackster&logoColor=white&link=https://www.hackster.io/aniketdhole991)](https://www.hackster.io/aniketdhole991)
 [![Instructables](https://img.shields.io/badge/-Instructables-FABF15?style=flat-square&logo=Instructables&logoColor=white&link=https://www.instructables.com/member/aniketd29/)](https://www.instructables.com/member/aniketd29/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@aniketdhole990)](https://medium.com/@aniketdhole990)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@aniketdhole990)](https://medium.com/@aniketdhole10)
 [![CodeChef 4 Star](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/aniketdhole)](https://www.codechef.com/users/aniketdhole)
 
 
