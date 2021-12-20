@@ -8,7 +8,7 @@ I'm an **Undergrad Computer Engineering Student🎓 [@PCCOE Pune](https://www.pc
   - 🖼 Computer Vision
   - 🤖 Robotics
   - ⛓️ Parallel Computing
-- 📙 Check out my [Resume](https://drive.google.com/file/d/1ZoAUYGxYQU6DFouVKcRid0EQ5zdFg50r/view?usp=sharing)
+- 📙 Check out my [Resume](https://drive.google.com/file/d/1AuAItCofRdvQM_wSdlIOxserRCAIuTFf/view)
 
 
 
