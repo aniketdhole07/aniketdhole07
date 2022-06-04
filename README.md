@@ -5,7 +5,7 @@ I'm an **Undergrad Computer Engineering Student🎓 [@PCCOE Pune](https://www.pc
 
 [See My Website](https://aniketdhole.in/)
 
-- 🔭 I’m currently working on a Mental Health Chatbot [Check the Progress](https://hackaday.io/project/180133-emojo-mental-health-chatbot)
+- 🔭 I’m currently working on a Drone Project for Farm Mapping 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 🖼 Computer Vision
   - 🤖 Robotics
