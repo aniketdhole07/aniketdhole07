@@ -1,7 +1,7 @@
 # Hi everyone :wave:
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I am an incoming student at [Northeastern University](https://coe.northeastern.edu/) in Boston for my MS in Computer Vision and Machine Learning. I have my undergrad from [Pimpri Chinchwad College of Engineering in Computer Engineering🎓](https://www.pccoepune.com/) in Computer Engineering, working on Computer Vision projects in Agriculture and Healthcare using Edge and Parallel Computing
+I am a grad student at [Northeastern University](https://coe.northeastern.edu/) in Boston for my MS in Computer Vision and Machine Learning. I have my undergrad from [Pimpri Chinchwad College of Engineering in Computer Engineering🎓](https://www.pccoepune.com/) in Computer Engineering, working on Computer Vision projects in Agriculture and Healthcare using Edge and Parallel Computing
 
 Currently, I am the Co-Founder and Software Engineer at Vuna Technologies (VunaTec) where I am working on making Drones with Multispectral Cameras and a Farm Mapping Software to predict and avoid Pre-Harvest losses for farmers.
 
