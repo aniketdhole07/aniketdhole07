@@ -15,7 +15,7 @@ I have experience in IoT Devices and Robotics, where I explored areas such as Co
   - 🖼 Computer Vision
   - 🤖 Robotics
   - ⛓️ Parallel Computing
-- 📙 Check out my [Resume](https://drive.google.com/file/d/1AuAItCofRdvQM_wSdlIOxserRCAIuTFf/view)
+- 📙 Check out my [Resume](https://drive.google.com/file/d/1uVwb6gBsVBkWxsZWjKMtwjQi5N_BZ_sE/view?usp=sharing)
 
 
 
